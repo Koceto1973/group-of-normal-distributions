@@ -1,0 +1,11 @@
+Given:
+--------------
+Array of variables [x0,x1,x2,x3, ...., xn-1] ,
+where each xi ( i = 0,1,2,3,....(n-1) ) is normally distributed around Oy axis ( or having 0 mean/expectation )
+and known but different standard deviation D0, D1, ... , Dn-1.
+
+Problem:
+--------------
+Write a program to calculate the probability of the event 
+x0 to occur not bigger by modulus than all the others x1,x2, ... , xn-1
+
